@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1DtfnQak1OGucHLO6VccTYh1aJmAooVvy
 """
 
-!pip install streamlit pandas plotly numpy
+# !pip install streamlit pandas plotly numpy
 
 # Install these first in your environment:
 # pip install streamlit pandas plotly numpy
